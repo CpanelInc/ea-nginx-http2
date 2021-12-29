@@ -20,7 +20,6 @@ Makes ea-nginx configure http2 support on SSL requests.
 echo "Nothing to build"
 
 %install
-rm -rf %{buildroot}
 %{__mkdir_p} %{buildroot}/etc/nginx/conf.d
 install %{SOURCE0} %{buildroot}/etc/nginx/conf.d/http2.conf
 
