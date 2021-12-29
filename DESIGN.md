@@ -33,8 +33,8 @@ Answer to both: very little. only when we want to change our default http2 confi
 
 ## Options/Decisions
 
-Option 1: flag file. Con: no config
-Option 2: conf file. Pro: can serve as flag file and contain additonal config. same amount of effort
+1. Option 1: flag file. Con: no config
+2. Option 2: conf file. Pro: can serve as flag file and contain additonal config. same amount of effort
 
 ## Child Documents
 
