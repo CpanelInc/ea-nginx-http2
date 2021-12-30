@@ -9,7 +9,7 @@
 
 ## Detailed Summary
 
-Have is install and own `/etc/nginx/conf.d/http2.conf`.
+Have it install and own `/etc/nginx/conf.d/http2.conf`.
 
 It servers two purposes:
 
