@@ -9,7 +9,7 @@ Group:          System Environment/Libraries
 URL:            http://www.cpanel.net
 Vendor:         cPanel, Inc.
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
-Requires:       ea-nginx
+Requires:       ea-nginx ea-apache24-mod_http2
 
 Source0:        http2.conf
 
